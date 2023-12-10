@@ -55,6 +55,7 @@ function is_select($var, $val)
     <meta charset="UTF-8">
     <link href="style.css" rel="stylesheet" type="text/css" />
     <title>Ubah Barang</title>
+    <link rel="stylesheet" href="ubah.css">
 </head>
 
 <body>
